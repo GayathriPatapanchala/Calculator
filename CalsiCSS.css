@@ -1,0 +1,23 @@
+.container{
+    height: 100vh;
+    width: 100%;
+    background-color:lavender;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.calsi{
+    background-color:black;
+    padding: 50px;
+    border: 2px;
+}
+.calsi form input{
+    font-size: 20px;
+    color:black;
+}
+ form .displa{
+    text-align: right;
+    margin: 15px;
+    padding: 0Px;
+
+ }
